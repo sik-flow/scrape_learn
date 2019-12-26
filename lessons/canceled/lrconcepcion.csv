@@ -1,0 +1,138 @@
+dates,lesson
+"Tuesday, Sep 10th",Multiple Linear Regression
+"Tuesday, Sep 10th",Regression Introduction
+"Tuesday, Sep 10th",Section Recap
+"Monday, Sep 9th",Project: Regression Modeling with the Boston Housing Dataset
+"Monday, Sep 9th",Interpreting Significance and P-value
+"Monday, Sep 9th",Regression Diagnostics in Statsmodels
+"Monday, Sep 9th",Ordinary Least Squares in Statsmodels (OLS) - Lab
+"Monday, Sep 9th",Ordinary Least Squares in Statsmodels (OLS)
+"Monday, Sep 9th",Assumptions for Linear Regression
+"Monday, Sep 9th",Regression - Lab
+"Monday, Sep 9th",Coefficient of Determination - Lab
+"Monday, Sep 9th",Coefficient of Determination
+"Monday, Sep 9th",Simple Linear Regression - Lab
+"Monday, Sep 9th",Simple Linear Regression
+"Monday, Sep 9th",Statistical Learning Theory
+"Monday, Sep 9th",Correlation and Covariance - Lab
+"Friday, Sep 6th",Correlation and Covariance
+"Friday, Sep 6th",Introduction
+"Friday, Sep 6th",Section Recap
+"Friday, Sep 6th",Seaborn - Lab
+"Friday, Sep 6th",Seaborn
+"Friday, Sep 6th",Data Visualization - Best Practices and Common Mistakes
+"Friday, Sep 6th",Subplots and Enumeration - Lab
+"Friday, Sep 6th",Customizing Visualizations with Matplotlib - Lab
+"Thursday, Sep 5th",Customizing Visualizations with Matplotlib
+"Thursday, Sep 5th",Introduction
+"Thursday, Sep 5th",Section Recap
+"Thursday, Sep 5th",Project - Data Cleaning
+"Wednesday, Sep 4th",More on Missing Data - Lab
+"Wednesday, Sep 4th",More on Missing Data
+"Wednesday, Sep 4th",Dealing with Missing Data - Lab
+"Wednesday, Sep 4th",Dealing with Missing Data - Quiz
+"Wednesday, Sep 4th",Dealing with Missing Data
+"Wednesday, Sep 4th",Pivot Tables with Pandas - Lab
+"Wednesday, Sep 4th",Pivot Tables with Pandas
+"Wednesday, Sep 4th",Combining Dataframes with Pandas - Lab
+"Wednesday, Sep 4th",Combining with Dataframes Pandas
+"Wednesday, Sep 4th",Pandas Groupby
+"Tuesday, Sep 3rd",Lambda Functions - Lab
+"Tuesday, Sep 3rd",Lambda Functions
+"Tuesday, Sep 3rd",Introduction
+"Tuesday, Sep 3rd",Section Recap
+"Tuesday, Sep 3rd",Project: EDA with Pandas Using the Boston Housing Data
+"Tuesday, Sep 3rd",Kaggle and The Boston Housing Dataset
+"Tuesday, Sep 3rd",Data Visualization with Pandas
+"Thursday, Aug 29th",Statistical Methods in Pandas - Lab
+"Thursday, Aug 29th",Statistical Methods in Pandas
+"Thursday, Aug 29th",Understanding Pandas Series and Dataframes - Lab
+"Thursday, Aug 29th",Understanding Pandas Series and DataFrames
+"Thursday, Aug 29th",Importing Data Using Pandas - Lab
+"Wednesday, Aug 28th",Importing Data Using Pandas
+"Wednesday, Aug 28th",Accessing Data with Pandas - Lab
+"Tuesday, Aug 27th",Accessing Data with Pandas
+"Tuesday, Aug 27th",Getting Started with Numpy - Lab
+"Tuesday, Aug 27th",Getting Started with Numpy
+"Monday, Aug 26th",Introduction to Numpy
+"Monday, Aug 26th",Introducing Python Libraries
+"Monday, Aug 26th",Introduction
+"Monday, Aug 26th",Section Recap
+"Monday, Aug 26th",Project: Building A Calculator
+"Thursday, Aug 22nd",User Input and Output in Python
+"Thursday, Aug 22nd",Implementing Statistics with Functions - Lab
+"Thursday, Aug 22nd",Measures of Dispersion - Quiz
+"Thursday, Aug 22nd",Measures of Dispersion
+"Thursday, Aug 22nd",Measures of Central Tendency - Quiz
+"Thursday, Aug 22nd",Measures of Central Tendency
+"Thursday, Aug 22nd",Mathematical Notation
+"Thursday, Aug 22nd",Functions with Arguments - Lab
+"Wednesday, Aug 21st",Creating Functions - Lab
+"Wednesday, Aug 21st",Creating Functions
+"Wednesday, Aug 21st",Using Nested Loops - Lab
+"Wednesday, Aug 21st",Using Nested Loops
+"Wednesday, Aug 21st","While Loops, Break and Continue - Lab"
+"Tuesday, Aug 20th",While Loops Break and Continue
+"Monday, Aug 19th","Built-in Python Operators, Functions and Methods - Lab"
+"Friday, Aug 16th","Python Operators, Functions And Methods"
+"Wednesday, Aug 14th",Introduction
+"Wednesday, Aug 14th",Section Recap
+"Wednesday, Aug 14th",Project: Analyzing Macbeth
+"Wednesday, Aug 14th","Code Best Practices: Commenting, Standardizing Layout, PEP 8"
+"Wednesday, Aug 14th",Git Resources
+"Wednesday, Aug 14th",Git Stash - Lab
+"Tuesday, Aug 13th",Git Merge - Lab
+"Tuesday, Aug 13th",Collaborating with Git Branches
+"Thursday, Aug 8th",Practicing Git
+"Thursday, Aug 8th",Quiz: Git Basics
+"Thursday, Aug 8th",Getting Started with Git
+"Wednesday, Aug 7th",Git Version Control 101
+"Wednesday, Aug 7th",The Bash Shell
+"Tuesday, Aug 6th",Introduction
+"Tuesday, Aug 6th",Section Recap
+"Tuesday, Aug 6th",Data Visualization - Lab
+"Tuesday, Aug 6th",Data Visualization
+"Tuesday, Aug 6th",Looping Over Collections - Lab
+"Sunday, Aug 4th",Looping Over Collections
+"Friday, Aug 2nd",Working with Dictionaries - Lab
+"Thursday, Aug 1st",Working with Dictionaries
+"Wednesday, Jul 31st",Working with Lists - Lab
+"Tuesday, Jul 30th",Working with Lists
+"Tuesday, Jul 30th",Control Flow: Conditionals - Lab
+"Monday, Jul 29th",Control Flow: Conditionals
+"Monday, Jul 29th",Introduction to Variables: Variable Assignment - Lab
+"Monday, Jul 29th",Introduction to Variables: Strings and Numeric Types - Lab
+"Monday, Jul 29th",Introduction to Variables: Numeric Types and Booleans
+"Monday, Jul 29th",Introduction to Variables: Strings - Lab
+"Monday, Jul 29th",Introduction to Variables: Strings
+"Monday, Jul 29th",Introduction to Variables: Variable Assignment
+"Monday, Jul 29th",Your First Data Science Codealong!
+"Monday, Jul 29th",Working with Lessons on Learn - Lab
+"Monday, Jul 29th",Working with Lessons on Learn
+"Monday, Jul 29th",The Data Science Process
+"Monday, Jul 29th",Problems Data Science Can Solve
+"Monday, Jul 29th",Introduction
+"Monday, Jul 29th",Blogging
+"Monday, Jul 29th",Welcome
+"Sunday, Jul 28th",Variable Assignment - Lab
+"Sunday, Jul 28th",Numeric Types - Lab
+"Saturday, Jul 27th",Numeric Types
+"Friday, Jul 26th",Strings - Lab
+"Friday, Jul 26th",Strings
+"Friday, Jul 26th",Variable Assignment
+"Friday, Jul 26th",Your First Data Science Codealong!
+"Thursday, Jul 25th",Working With Lessons On Learn - Lab
+"Thursday, Jul 25th",Working With Lessons On Learn
+"Thursday, Jul 25th",Setting Up a Professional DS Environment
+"Thursday, Jul 25th",The Data Science Process
+"Thursday, Jul 25th",Problems Data Science Can Solve
+"Thursday, Jul 25th",Introduction
+"Thursday, Jul 25th",Blogging
+"Thursday, Jul 25th",Welcome
+"Thursday, Jul 25th",Python Numbers And Booleans
+"Thursday, Jul 25th",Python Intro To Strings
+"Thursday, Jul 25th",Instant Data Science
+"Monday, Jul 15th",Introduction To Data Science
+"Sunday, Jul 14th",Basics of HTML
+"Sunday, Jul 14th",The Web is Made of HTML
+"Sunday, Jul 14th",Welcome to Bootcamp Prep

@@ -1,0 +1,202 @@
+dates,lesson
+"Saturday, Aug 24th",Data Privacy and Ethics
+"Saturday, Aug 24th",Pickle
+"Monday, Feb 11th",Obtaining Your Data - Lab
+"Monday, Feb 11th",Obtaining Your Data
+"Thursday, Dec 27th 2018",Data Science Processes
+"Thursday, Dec 27th 2018",Introduction
+"Thursday, Dec 27th 2018",Section Recap
+"Thursday, Dec 27th 2018",Introduction to Cross Validation - Lab
+"Wednesday, Dec 26th 2018",Introduction to Cross Validation
+"Wednesday, Dec 26th 2018",Regression Model Validation - Lab
+"Wednesday, Dec 26th 2018",Regression Model Validation
+"Wednesday, Dec 26th 2018",Model Fit in Linear Regression - Lab
+"Saturday, Dec 15th 2018",Model Fit in Linear Regression
+"Saturday, Dec 15th 2018",Multiple Linear Regression in Statsmodels - Lab
+"Thursday, Dec 13th 2018",Feature Scaling and Normalization - Lab
+"Thursday, Dec 13th 2018",Feature Scaling and Normalization
+"Thursday, Dec 13th 2018",Multicollinearity of Features - Lab
+"Thursday, Dec 13th 2018",Multicollinearity of Features
+"Thursday, Dec 13th 2018",Dealing with Categorical Variables - Lab
+"Wednesday, Dec 12th 2018",Dealing with Categorical Variables
+"Tuesday, Dec 11th 2018",Multiple Linear Regression
+"Tuesday, Dec 11th 2018",Regression Introduction
+"Tuesday, Dec 11th 2018",Section Recap
+"Tuesday, Dec 11th 2018",Project: Regression Modeling with the Boston Housing Dataset
+"Tuesday, Dec 11th 2018",Interpreting Significance and P-value
+"Tuesday, Dec 11th 2018",Regression Diagnostics in Statsmodels
+"Tuesday, Dec 11th 2018",Ordinary Least Squares in Statsmodels (OLS) - Lab
+"Tuesday, Dec 11th 2018",Ordinary Least Squares in Statsmodels (OLS)
+"Tuesday, Dec 11th 2018",Assumptions for Linear Regression
+"Thursday, Dec 6th 2018",Regression - Lab
+"Thursday, Dec 6th 2018",Coefficient of Determination - Lab
+"Wednesday, Dec 5th 2018",Coefficient of Determination
+"Wednesday, Dec 5th 2018",Simple Linear Regression - Lab
+"Wednesday, Dec 5th 2018",Simple Linear Regression
+"Wednesday, Dec 5th 2018",Statistical Learning Theory
+"Wednesday, Dec 5th 2018",Correlation and Covariance - Lab
+"Tuesday, Dec 4th 2018",Correlation and Covariance
+"Tuesday, Dec 4th 2018",Introduction
+"Tuesday, Dec 4th 2018",Section Recap
+"Tuesday, Dec 4th 2018",One-Sample z-test - Lab
+"Monday, Dec 3rd 2018",One-Sample z-test
+"Monday, Dec 3rd 2018",Statistical Testing with z-score and p-value
+"Monday, Dec 3rd 2018",Skewness and Kurtosis - Lab
+"Monday, Dec 3rd 2018",Skewness and Kurtosis
+"Monday, Dec 3rd 2018",The Standard Normal Distribution - Lab
+"Sunday, Dec 2nd 2018",The Standard Normal Distribution
+"Sunday, Dec 2nd 2018",The Normal Distribution - Lab
+"Sunday, Dec 2nd 2018",The Normal Distribution
+"Sunday, Dec 2nd 2018",The Probability Density Function
+"Sunday, Dec 2nd 2018",The Cumulative Distribution Function - Lab
+"Sunday, Dec 2nd 2018",The Cumulative Distribution Function
+"Sunday, Dec 2nd 2018",The Probability Mass Function - Lab
+"Sunday, Dec 2nd 2018",The Probability Mass Function
+"Saturday, Dec 1st 2018",Statistical Distributions and Their Use Cases
+"Saturday, Dec 1st 2018",Introduction
+"Saturday, Dec 1st 2018",Section Recap
+"Saturday, Dec 1st 2018",The Bernoulli and Binomial Distributions - Lab
+"Saturday, Dec 1st 2018",The Bernoulli and Binomial Distributions
+"Saturday, Dec 1st 2018",Combinations - Lab
+"Saturday, Dec 1st 2018",Combinations
+"Saturday, Dec 1st 2018",Permutations and Factorials - Lab
+"Saturday, Dec 1st 2018",Permutations and Factorials
+"Saturday, Dec 1st 2018",Introduction to Probability - Lab
+"Friday, Nov 30th 2018",Introduction to Probability
+"Friday, Nov 30th 2018",Introduction to Sets - Lab
+"Friday, Nov 30th 2018",Introduction to Sets
+"Friday, Nov 30th 2018",What is Probability?
+"Friday, Nov 30th 2018",Getting Started with Numpy - Lab
+"Friday, Nov 30th 2018",Getting Started with Numpy
+"Friday, Nov 30th 2018",Introduction to Numpy
+"Thursday, Nov 29th 2018",Introduction
+"Thursday, Nov 29th 2018",Building an Object-Oriented Simulation - Lab
+"Thursday, Nov 29th 2018",Building an Object-Oriented Simulation
+"Thursday, Nov 29th 2018",Inheritance - Lab
+"Thursday, Nov 29th 2018",Inheritance
+"Thursday, Nov 29th 2018",Object Oriented Shopping Cart - Lab
+"Tuesday, Nov 27th 2018",Object Oriented Attributes with Functions - Lab
+"Tuesday, Nov 27th 2018",Object Oriented Attributes with Functions
+"Tuesday, Nov 27th 2018",Object Initialization - Lab
+"Sunday, Nov 25th 2018",Object Initialization
+"Saturday, Nov 24th 2018",Section Recap
+"Saturday, Nov 24th 2018",Object Attributes - Lab
+"Thursday, Nov 22nd 2018","A Deeper Dive into ""self"""
+"Thursday, Nov 22nd 2018",Instance Methods - Lab
+"Wednesday, Nov 21st 2018",Instance Methods
+"Wednesday, Nov 21st 2018",Classes and Instances - Lab
+"Wednesday, Nov 21st 2018",Classes and Instances
+"Wednesday, Nov 21st 2018",Introduction
+"Wednesday, Nov 21st 2018",Section Recap
+"Wednesday, Nov 21st 2018",Using SQL with Pandas
+"Wednesday, Nov 21st 2018",Grouping Data with SQL - Lab
+"Wednesday, Nov 21st 2018",Grouping Data with SQL
+"Wednesday, Nov 21st 2018",One-to-Many and Many-to-Many Joins - Lab
+"Wednesday, Nov 21st 2018",One-to-Many and Many-to-Many Joins
+"Wednesday, Nov 21st 2018",Join Statements - Lab
+"Wednesday, Nov 21st 2018",Join Statements
+"Tuesday, Nov 20th 2018",Selecting Data - Lab
+"Tuesday, Nov 20th 2018",Filtering and Ordering - Lab
+"Tuesday, Nov 20th 2018",Filtering and Ordering
+"Tuesday, Nov 20th 2018",Blogging
+"Saturday, Nov 17th 2018",Selecting Data
+"Tuesday, Nov 13th 2018",SQL Database Data Types
+"Tuesday, Nov 13th 2018",Introduction
+"Tuesday, Nov 13th 2018",Section Recap
+"Tuesday, Nov 13th 2018",Project - Data Cleaning
+"Sunday, Nov 11th 2018",Dealing with Missing Data - Lab
+"Saturday, Nov 10th 2018",Dealing with Missing Data - Quiz
+"Saturday, Nov 10th 2018",Dealing with Missing Data
+"Saturday, Nov 10th 2018",Pivot Tables with Pandas - Lab
+"Friday, Nov 9th 2018",Pivot Tables with Pandas
+"Friday, Nov 9th 2018",Combining Dataframes with Pandas - Lab
+"Friday, Nov 9th 2018",Combining with Dataframes Pandas
+"Friday, Nov 9th 2018",Pandas Groupby
+"Friday, Nov 9th 2018",Lambda Functions - Lab
+"Friday, Nov 9th 2018",Lambda Functions
+"Thursday, Nov 8th 2018",Introduction
+"Thursday, Nov 8th 2018",Section Recap
+"Thursday, Nov 8th 2018",Project: EDA with Pandas Using the Boston Housing Data
+"Tuesday, Nov 6th 2018",Kaggle and The Boston Housing Dataset
+"Tuesday, Nov 6th 2018",Data Visualization with Pandas
+"Sunday, Nov 4th 2018",Statistical Methods in Pandas - Lab
+"Sunday, Nov 4th 2018",Statistical Methods in Pandas
+"Sunday, Nov 4th 2018",Accessing Data with Pandas - Lab
+"Sunday, Nov 4th 2018",Accessing Data with Pandas
+"Sunday, Nov 4th 2018",Understanding Pandas Series and Dataframes - Lab
+"Saturday, Nov 3rd 2018",Understanding Pandas Series and DataFrames
+"Saturday, Nov 3rd 2018",Importing Data Using Pandas - Lab
+"Thursday, Oct 25th 2018",Importing Data Using Pandas
+"Thursday, Oct 25th 2018",Introducing Python Libraries
+"Thursday, Oct 25th 2018",Section Recap
+"Thursday, Oct 25th 2018",Project: Building A Calculator
+"Thursday, Oct 25th 2018",User Input and Output in Python
+"Thursday, Oct 25th 2018",Implementing Statistics with Functions - Lab
+"Wednesday, Oct 24th 2018",Measures of Dispersion - Quiz
+"Wednesday, Oct 24th 2018",Measures of Dispersion
+"Wednesday, Oct 24th 2018",Measures of Central Tendency - Quiz
+"Wednesday, Oct 24th 2018",Measures of Central Tendency
+"Wednesday, Oct 24th 2018",Functions with Arguments - Lab
+"Wednesday, Oct 24th 2018",Functions with Arguments
+"Wednesday, Oct 24th 2018",Creating Functions - Lab
+"Wednesday, Oct 24th 2018",Creating Functions
+"Wednesday, Oct 24th 2018",Using Nested Loops - Lab
+"Wednesday, Oct 24th 2018",Using Nested Loops
+"Wednesday, Oct 24th 2018","While Loops, Break and Continue - Lab"
+"Wednesday, Oct 24th 2018",While Loops Break and Continue
+"Wednesday, Oct 24th 2018","Built-in Python Operators, Functions and Methods - Lab"
+"Wednesday, Oct 24th 2018","Python Operators, Functions And Methods"
+"Tuesday, Oct 23rd 2018",Introduction
+"Tuesday, Oct 23rd 2018",Section Recap
+"Tuesday, Oct 23rd 2018",Project: Analyzing Macbeth
+"Tuesday, Oct 23rd 2018",Data Visualization - Lab
+"Tuesday, Oct 23rd 2018",Data Visualization
+"Tuesday, Oct 23rd 2018",Working with Dictionaries - Lab
+"Tuesday, Oct 23rd 2018",Working with Dictionaries
+"Tuesday, Oct 23rd 2018",Looping Over Collections - Lab
+"Tuesday, Oct 23rd 2018",Looping Over Collections
+"Tuesday, Oct 23rd 2018",Working with Lists - Lab
+"Tuesday, Oct 23rd 2018",Working with Lists
+"Tuesday, Oct 23rd 2018",Control Flow: Conditionals - Lab
+"Tuesday, Oct 23rd 2018",Control Flow: Conditionals
+"Tuesday, Oct 23rd 2018",Introduction to Variables: Variable Assignment - Lab
+"Tuesday, Oct 23rd 2018",Introduction to Variables: Strings and Numeric Types - Lab
+"Tuesday, Oct 23rd 2018",Introduction to Variables: Numeric Types and Booleans
+"Tuesday, Oct 23rd 2018",Introduction to Variables: Strings - Lab
+"Tuesday, Oct 23rd 2018",Introduction to Variables: Strings
+"Tuesday, Oct 23rd 2018",Introduction to Variables: Variable Assignment
+"Tuesday, Oct 23rd 2018",Your First Data Science Codealong!
+"Monday, Oct 22nd 2018",Working with Lessons on Learn - Lab
+"Monday, Oct 22nd 2018",Working with Lessons on Learn
+"Tuesday, Oct 9th 2018",The Data Science Process
+"Tuesday, Oct 9th 2018",Problems Data Science Can Solve
+"Tuesday, Oct 9th 2018",Introduction
+"Tuesday, Oct 9th 2018",Welcome
+"Sunday, Oct 7th 2018",Map Readme
+"Sunday, Oct 7th 2018",Filter Readme
+"Sunday, Oct 7th 2018",Conditionals Python Lab
+"Sunday, Oct 7th 2018",Conditionals Python Readme
+"Sunday, Oct 7th 2018",Function Arguments Lab
+"Sunday, Oct 7th 2018",Function Arguments Readme
+"Sunday, Oct 7th 2018",Python Scope Readme
+"Friday, Oct 5th 2018",Introduction To Functions Lab
+"Friday, Oct 5th 2018",Defining Functions Readme
+"Friday, Oct 5th 2018",For Loops Lab
+"Friday, Oct 5th 2018",For Loops Readme
+"Friday, Oct 5th 2018",Plotting Data Lab
+"Wednesday, Oct 3rd 2018",Plotting Data Readme
+"Wednesday, Sep 26th 2018",Python Dictionaries Lab
+"Monday, Sep 24th 2018",Excel To Python
+"Monday, Sep 24th 2018",Python Dictionaries Readme
+"Thursday, Sep 20th 2018",Congratulations!
+"Thursday, Sep 20th 2018",Lists With Maps
+"Thursday, Sep 20th 2018",Python Lists Lab
+"Thursday, Sep 20th 2018",Python Lists Readme
+"Thursday, Sep 20th 2018",Jupyter Notebook Introduction
+"Thursday, Sep 20th 2018",Python Variables Lab
+"Thursday, Sep 20th 2018",Python Variables Readme
+"Thursday, Sep 20th 2018",Python Practice With Datatypes
+"Thursday, Sep 20th 2018",Python Numbers And Booleans
+"Thursday, Sep 20th 2018",Python Intro To Strings
+"Thursday, Sep 20th 2018",Instant Data Science
+"Thursday, Sep 20th 2018",Introduction To Data Science

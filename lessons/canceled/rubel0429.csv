@@ -1,0 +1,504 @@
+dates,lesson
+"Thursday, May 16th",Market Segmentation with Clustering
+"Thursday, May 16th",Hierarchical Agglomerative Clustering - Lab
+"Wednesday, May 15th",Common Problems with Clustering Algorithms
+"Wednesday, May 15th",Hierarchical Agglomerative Clustering
+"Wednesday, May 15th",K-Means Clustering - Lab
+"Wednesday, May 15th",K Means Clustering
+"Sunday, May 12th",[DEPRECATED - DO NOT DEPLOY] Facial recognition with PCA and Eigenfaces - Lab
+"Sunday, May 12th",Introduction
+"Sunday, May 12th",Section Recap
+"Thursday, May 9th",Image Recognition with PCA - Lab
+"Thursday, May 9th",PCA for Facial Image Recognition
+"Thursday, Apr 18th",Performing Principal Component Analysis - Lab
+"Thursday, Apr 18th",Performing Principal Component Analysis
+"Tuesday, Apr 16th",PCA Background: Covariance Matrix and Eigendecomposition
+"Sunday, Apr 14th",Principal Component Analysis in scikit-learn - Lab
+"Sunday, Apr 14th",[DEPRECATED - DO NOT DEPLOY] Understanding Principal Component Analysis 
+"Sunday, Apr 14th",Principal Component Analysis in scikit-learn
+"Sunday, Apr 14th",Curse of Dimensionality - Lab
+"Sunday, Apr 14th",Curse of Dimensionality 
+"Sunday, Apr 14th",Unsupervised Learning
+"Thursday, Apr 11th",Introduction
+"Thursday, Apr 11th",The Kernel Trick
+"Thursday, Apr 11th",Building an SVM Using Scikit-learn - Lab
+"Thursday, Apr 11th",Building an SVM from Scratch - Lab
+"Thursday, Apr 11th",Introduction to Support Vector Machines 
+"Thursday, Apr 11th",Introduction
+"Monday, Apr 8th",Section Recap
+"Sunday, Apr 7th",XGBoost - Lab
+"Wednesday, Apr 3rd",XGBoost
+"Wednesday, Apr 3rd",Gradient Boosting - Lab
+"Wednesday, Apr 3rd",Gradient Boosting and Weak Learners
+"Wednesday, Apr 3rd",GridSearchCV - Lab
+"Wednesday, Apr 3rd",GridSearchCV
+"Wednesday, Apr 3rd",Tree Ensembles and Random Forests - Lab
+"Tuesday, Apr 2nd",Random Forests
+"Tuesday, Apr 2nd",Ensemble Methods
+"Monday, Apr 1st",Introduction
+"Monday, Apr 1st",Section Recap
+"Monday, Apr 1st",Regression Trees and Model Optimization - Lab
+"Monday, Apr 1st",Regression with CART Trees - Lab
+"Monday, Apr 1st",Regression with CART Trees
+"Monday, Apr 1st",Hyperparameter Tuning and Pruning in Decision Trees - Lab
+"Wednesday, Mar 27th",Hyperparameter Tuning and Pruning in Decision Trees
+"Tuesday, Mar 26th",Building Trees using scikit-learn - Lab
+"Monday, Mar 25th",Building Trees using scikit-learn
+"Monday, Mar 25th",ID3 Classification Trees: Perfect Split with Information Gain - Lab
+"Monday, Mar 25th",Entropy and Information Gain 
+"Monday, Mar 25th",Introduction to Decision Trees
+"Sunday, Mar 24th",Introduction to PAC Learning Theory
+"Sunday, Mar 24th",Introduction
+"Sunday, Mar 24th",Section Recap
+"Sunday, Mar 24th",Logistic Regression Model Comparisons - Lab
+"Sunday, Mar 24th",Coding Logistic Regression from Scratch - Lab
+"Sunday, Mar 24th",Gradient Descent - Lab
+"Thursday, Mar 21st",Gradient Descent Review
+"Thursday, Mar 21st",MLE and Logistic Regression
+"Thursday, Mar 21st",MLE Review
+"Thursday, Mar 21st",Introduction
+"Thursday, Mar 21st",Section Recap
+"Wednesday, Mar 20th",Class Imbalance Problems - Lab
+"Wednesday, Mar 20th",Class Imbalance Problems
+"Tuesday, Mar 19th",ROC Curves and AUC - Lab
+"Tuesday, Mar 19th",ROC Curves and AUC 
+"Tuesday, Mar 19th",Visualizing Confusion Matrices - Lab
+"Tuesday, Mar 19th",Evaluating Logistic Regression Models - Lab
+"Tuesday, Mar 19th",Logistic Regression in SciKit Learn - Lab
+"Tuesday, Mar 19th",Logistic Regression in SciKit Learn
+"Tuesday, Mar 19th",Fitting a Logistic Regression Model - Lab
+"Monday, Mar 18th",Linear to Logistic Regression
+"Sunday, Mar 17th",Introduction
+"Sunday, Mar 17th",Section Recap
+"Sunday, Mar 17th",Recommendation Systems - Lab
+"Sunday, Mar 17th",Recommendation Systems
+"Sunday, Mar 17th",Community Detection - Lab
+"Sunday, Mar 17th",Clustering Networks - Lab
+"Sunday, Mar 17th",Clustering Networks
+"Sunday, Mar 17th",Node Centrality - Lab
+"Sunday, Mar 17th",Node Centrality
+"Sunday, Mar 17th",Graph Theory: Simple and Shortest Paths - Lab
+"Monday, Mar 11th",Graph Theory: Simple and Shortest Paths
+"Monday, Mar 11th",[DEPRECATED - DO NOT DEPLOY] Implementing and Visualizing Graphs with NetworkX - Lab
+"Monday, Mar 11th",NetworkX Introduction - Lab
+"Sunday, Mar 10th",NetworkX Introduction
+"Sunday, Mar 10th",Introduction to Graph Theory 
+"Sunday, Mar 10th",Introduction
+"Sunday, Mar 10th",Section Recap
+"Sunday, Mar 10th",KNN with Scikit-learn - Lab
+"Sunday, Mar 10th",KNN with Scikit-learn
+"Sunday, Mar 10th",Finding the Best Value for K
+"Sunday, Mar 10th",Evaluation Metrics - Lab
+"Wednesday, Mar 6th",Evaluation Metrics
+"Wednesday, Mar 6th",Confusion Matrices
+"Tuesday, Mar 5th",K-Nearest-Neighbors - Lab
+"Tuesday, Mar 5th",K-Nearest-Neighbors
+"Tuesday, Mar 5th",Distance Metrics - Lab
+"Tuesday, Mar 5th",Distance Metrics
+"Tuesday, Mar 5th",Introduction
+"Tuesday, Mar 5th",Section Recap
+"Monday, Mar 4th",sARIMA Models - Lab
+"Sunday, Mar 3rd",ARMA Models - Lab
+"Saturday, Mar 2nd",ARMA Models
+"Friday, Mar 1st",Correlation and Autocorrelation in Time Series - Lab
+"Sunday, Feb 24th",Correlation and Autocorrelation in Time Series
+"Sunday, Feb 24th",Basic Time Series Models - Lab
+"Sunday, Feb 24th",Basic Time Series Models
+"Sunday, Feb 24th",Introduction
+"Sunday, Feb 24th",Section Recap
+"Sunday, Feb 24th",Time Series Decomposition
+"Sunday, Feb 24th",Removing Trends - Lab
+"Sunday, Feb 24th",Removing Trends
+"Sunday, Feb 24th",Testing for Trends - Lab
+"Sunday, Feb 24th",Types of Trends
+"Sunday, Feb 24th",Visualizing Time Series Data - Lab
+"Sunday, Feb 24th",Managing Time Series Data - Lab
+"Sunday, Feb 24th",Introduction to Time Series 
+"Sunday, Feb 24th",Introduction
+"Wednesday, Jan 30th",Section Recap
+"Tuesday, Jan 29th",Extensions to Linear Models - Lab
+"Tuesday, Jan 29th",Feature and Model Selection: AIC and BIC
+"Tuesday, Jan 29th",Ridge and Lasso Regression - Lab
+"Tuesday, Jan 29th",Ridge and Lasso Regression
+"Monday, Jan 28th",Bias/Variance Trade-Off - Lab
+"Sunday, Jan 27th",Bias/Variance Trade-Off
+"Sunday, Jan 27th",Polynomial regression - Lab
+"Sunday, Jan 27th",Polynomial regression
+"Thursday, Jan 24th",Interactions - Lab
+"Thursday, Jan 24th",Interactions
+"Thursday, Jan 24th",Introduction
+"Thursday, Jan 24th",Section Recap
+"Thursday, Jan 24th",Monte Carlo Simulations - Lab
+"Thursday, Jan 24th",Monte Carlo Simulations
+"Thursday, Jan 24th",Resampling Methods - Lab
+"Thursday, Jan 24th",Resampling Methods
+"Tuesday, Jan 22nd",The Data Generation Process - Lab
+"Tuesday, Jan 22nd",The Data Generation Process - Codealong
+"Tuesday, Jan 22nd",The Kolmogorov-Smirnov test - Lab
+"Monday, Jan 21st",The Kolmogorov-Smirnov Test
+"Monday, Jan 21st",Probability Distributions - a Recap
+"Monday, Jan 21st",Introduction
+"Monday, Jan 21st",Section Recap
+"Monday, Jan 21st",Optimality of Naive Bayes
+"Monday, Jan 21st",Document Classification using Naive Bayes - Lab
+"Monday, Jan 21st",Naive Bayes and Scikit-Learn - Codealong 
+"Monday, Jan 21st",Word Vectorization - Lab
+"Monday, Jan 21st",NLP and Word Vectorization
+"Monday, Jan 21st",Breast Cancer Diagnosis with Naive Bayes Classifier - Lab 
+"Monday, Jan 21st",Naive Bayes Classifier in NumPy  - Lab
+"Monday, Jan 21st",Naive Bayes Assumptions and Applications
+"Wednesday, Jan 9th",MAP and Naive Bayes Classifier
+"Wednesday, Jan 9th",MLE with Normal Distributions - Lab
+"Wednesday, Jan 9th",MLE with Normal Distributions
+"Wednesday, Jan 9th",[DEPRECATED - DO NOT DEPLOY] The Bayesian Framework - Lab
+"Tuesday, Jan 8th",Introduction
+"Tuesday, Jan 8th",Section Recap
+"Tuesday, Jan 8th",[DEPRECATED - DO NOT DEPLOY] Beyond Bayesians and Frequentists
+"Tuesday, Jan 8th",Conjugate Prior Distributions
+"Tuesday, Jan 8th",Maximum A Posteriori  (MAP) Estimation
+"Monday, Jan 7th",Maximum Likelihood Estimation  (MLE)
+"Monday, Jan 7th",The Monty Hall Problem - Lab
+"Monday, Jan 7th",Bayes' Theorem - Lab
+"Monday, Jan 7th",Bayes' Theorem
+"Sunday, Jan 6th",Simulations with Conditional and Total Probability  - Lab
+"Sunday, Jan 6th",Partitioning and Law of Total Probabilities - Lab
+"Sunday, Jan 6th",Partitioning and Law of Total Probabilities
+"Sunday, Jan 6th",Conditional Probability - Lab
+"Sunday, Jan 6th",Conditional Probability
+"Sunday, Jan 6th",Introduction
+"Sunday, Jan 6th",Section Recap
+"Sunday, Jan 6th",ANOVA - Lab
+"Sunday, Jan 6th",ANOVA
+"Sunday, Jan 6th",Goodhart’s Law and Metric Tracking
+"Sunday, Jan 6th", A/B Testing - Lab
+"Sunday, Jan 6th", A/B Testing
+"Sunday, Jan 6th",Multiple Comparisons Problem
+"Sunday, Jan 6th","Effect Sizes, P Values, and Power - Lab"
+"Sunday, Jan 6th",Statistical Power - Lab
+"Sunday, Jan 6th",Statistical Power
+"Sunday, Jan 6th",Type 1 and Type 2 Errors - Lab
+"Sunday, Jan 6th",Type 1 and Type 2 Errors
+"Thursday, Jan 3rd",Two Sample T-Test - Lab
+"Thursday, Jan 3rd",One Sample T-Test - Lab
+"Thursday, Jan 3rd", Effect Sizes
+"Thursday, Jan 3rd",P-values and the Null Hypothesis
+"Thursday, Jan 3rd",Introduction to Experimental Design
+"Thursday, Jan 3rd",Introduction
+"Thursday, Jan 3rd",Section Recap
+"Thursday, Jan 3rd",Confidence Intervals with T Distribution - Lab
+"Wednesday, Jan 2nd",Confidence Intervals with T Distribution
+"Wednesday, Jan 2nd",Confidence Intervals - Lab
+"Tuesday, Jan 1st",Sampling Statistics
+"Tuesday, Jan 1st",Central Limit Theorem - Lab
+"Tuesday, Jan 1st",Central Limit Theorem
+"Tuesday, Jan 1st",Introduction to Sampling
+"Tuesday, Jan 1st",Exponential Distributions - Lab
+"Tuesday, Jan 1st",Exponential Distributions
+"Tuesday, Jan 1st",Poisson Distribution - Lab
+"Tuesday, Jan 1st",Poisson Distribution
+"Tuesday, Jan 1st",Geometric and Negative Binomial Distributions - Lab
+"Tuesday, Jan 1st",Geometric and Negative Binomial Distributions
+"Tuesday, Jan 1st",Negative Binomial Distribution
+"Tuesday, Jan 1st",Statistical Distributions
+"Tuesday, Jan 1st",Introduction
+"Tuesday, Jan 1st",Section Recap
+"Sunday, Dec 30th 2018",Web Scraping with Beautiful Soup - Lab
+"Sunday, Dec 30th 2018",Web Scraping with Beautiful Soup
+"Sunday, Dec 30th 2018",My Little Rainbow - Lab
+"Sunday, Dec 30th 2018",CSS Code Along
+"Sunday, Dec 30th 2018",Intro to CSS
+"Sunday, Dec 30th 2018",Separating Content and Presentation
+"Sunday, Dec 30th 2018",Researching HTML Elements
+"Sunday, Dec 30th 2018",HTML5 Semantic Elements
+"Sunday, Dec 30th 2018",HTML Introduction
+"Friday, Dec 28th 2018",Introduction
+"Friday, Dec 28th 2018",Section Recap
+"Friday, Dec 28th 2018",Yelp API - Lab
+"Thursday, Dec 27th 2018",Reading API Documentation
+"Sunday, Dec 23rd 2018",Using the Yelp API - Codealong
+"Sunday, Dec 23rd 2018",OAuth - Open Authorization 
+"Sunday, Dec 23rd 2018",HTTP Request/Response Cycle - Lab
+"Sunday, Dec 23rd 2018",HTTP Request/Response Cycle - Code Along
+"Sunday, Dec 23rd 2018",The Client Server Model 
+"Thursday, Dec 20th 2018",Introduction to APIs
+"Thursday, Dec 20th 2018",Introduction
+"Thursday, Dec 20th 2018",Section Recap
+"Thursday, Dec 20th 2018",No-SQL Databases - Quiz
+"Thursday, Dec 20th 2018",No-SQL Databases
+"Thursday, Dec 20th 2018",Exploring and Transforming JSON Schemas - Lab
+"Tuesday, Dec 18th 2018",Exploring and Transforming JSON Schemas
+"Tuesday, Dec 18th 2018",Recursive Functions - Lab
+"Tuesday, Dec 18th 2018",Recursive Functions
+"Tuesday, Dec 18th 2018",Working with Known JSON Schemas - Lab
+"Sunday, Dec 16th 2018",Working with Known JSON Schemas
+"Sunday, Dec 16th 2018", JSON and XML - Lab
+"Sunday, Dec 16th 2018",JSON and XML 
+"Sunday, Dec 16th 2018",Introduction
+"Sunday, Dec 16th 2018",Section Recap
+"Sunday, Dec 16th 2018",Querying with SQLAlchemy - Lab
+"Sunday, Dec 16th 2018",Querying with SQLAlchemy
+"Sunday, Dec 16th 2018",Review: Many-to-Many Relationships
+"Sunday, Dec 16th 2018",Using an ORM - Lab
+"Sunday, Dec 16th 2018",Using an ORM
+"Sunday, Dec 16th 2018",Reading ERDs
+"Sunday, Dec 16th 2018",Review: Table Relationships
+"Sunday, Dec 16th 2018",Review: Using Sqlite - Lab
+"Sunday, Dec 16th 2018",Review: Using Sqlite
+"Wednesday, Dec 12th 2018",Introduction
+"Wednesday, Dec 12th 2018",Section Recap
+"Wednesday, Dec 12th 2018",Applying Gradient Descent - Lab
+"Wednesday, Dec 12th 2018",Gradient to Cost Function
+"Tuesday, Dec 11th 2018",The Gradient in Gradient Descent
+"Tuesday, Dec 11th 2018",Gradient Descent in 3D
+"Tuesday, Dec 11th 2018",Gradient Descent: Step Sizes - Lab
+"Monday, Dec 10th 2018",Gradient Descent: Step Sizes
+"Sunday, Dec 9th 2018",Introduction to Gradient Descent
+"Sunday, Dec 9th 2018",Derivatives: Conclusion
+"Sunday, Dec 9th 2018",Derivatives: the Chain Rule
+"Sunday, Dec 9th 2018",Rules for Derivatives - Lab
+"Sunday, Dec 9th 2018",Rules for Derivatives
+"Sunday, Dec 9th 2018",Derivatives of Non-linear Functions
+"Sunday, Dec 9th 2018",Introduction to Derivatives - Lab
+"Sunday, Dec 9th 2018",Introduction to Derivatives
+"Sunday, Dec 9th 2018",Introduction
+"Sunday, Dec 9th 2018",Section Recap
+"Sunday, Dec 9th 2018",Computational Complexity: From OLS to Gradient Descent
+"Sunday, Dec 9th 2018",Regression with Linear Algebra - Lab
+"Sunday, Dec 9th 2018",Regression Analysis using Linear Algebra and Numpy - Code Along
+"Sunday, Dec 9th 2018",Solving Systems of Linear Equations with NumPy - Lab
+"Sunday, Dec 9th 2018",Solving Systems of Linear Equations with NumPy - Code Along
+"Sunday, Dec 9th 2018",Pure Python vs. Numpy - Lab
+"Sunday, Dec 9th 2018",Properties of Dot Product - Lab
+"Thursday, Dec 6th 2018",Matrix Multiplication - Code Along
+"Thursday, Dec 6th 2018",Vectors and Matrices in Numpy - Lab
+"Thursday, Dec 6th 2018",Vector Addition and Broadcasting in NumPy - Code Along
+"Thursday, Dec 6th 2018","Scalars, Vectors, Matrices and Tensors - Code Along"
+"Thursday, Dec 6th 2018",System of Linear Equations - Quiz 
+"Wednesday, Dec 5th 2018",Systems of Linear Equations
+"Wednesday, Dec 5th 2018",Motivation for Linear Algebra in Data Science 
+"Wednesday, Dec 5th 2018",Introduction
+"Friday, Nov 23rd 2018",Section Recap
+"Tuesday, Nov 20th 2018",Modeling our Data - Lab
+"Monday, Nov 19th 2018",Holdout Validation
+"Monday, Nov 19th 2018",Modeling our Data
+"Sunday, Nov 18th 2018",Exploring our Data - Lab
+"Sunday, Nov 18th 2018",Exploring our Data
+"Sunday, Nov 18th 2018",Scrubbing our Data - Lab
+"Sunday, Nov 18th 2018",Scrubbing our Data
+"Sunday, Nov 18th 2018",Obtaining our Data - Lab
+"Sunday, Nov 18th 2018",Obtaining our Data
+"Sunday, Nov 18th 2018",Data Science Processes
+"Saturday, Nov 17th 2018",Introduction
+"Friday, Nov 16th 2018",Section Recap
+"Friday, Nov 16th 2018",Introduction to Cross Validation - Lab
+"Friday, Nov 16th 2018",Introduction to Cross Validation
+"Friday, Nov 16th 2018",Regression Model Validation - Lab
+"Friday, Nov 16th 2018",Regression Model Validation
+"Thursday, Nov 15th 2018",Model Fit in Linear Regression 
+"Thursday, Nov 15th 2018",Multiple Linear Regression in Statsmodels - Lab
+"Thursday, Nov 15th 2018",Multiple Linear Regression in Statsmodels
+"Wednesday, Nov 14th 2018",Feature Scaling and Normalization - Lab
+"Wednesday, Nov 14th 2018",Feature Scaling and Normalization
+"Wednesday, Nov 14th 2018",Multicollinearity of Features - Lab
+"Wednesday, Nov 14th 2018",Multicollinearity of Features
+"Wednesday, Nov 14th 2018",Section Recap
+"Wednesday, Nov 14th 2018",Project: Regression Modeling with the Boston Housing dataset
+"Wednesday, Nov 14th 2018",Dealing with Categorical Variables - Lab
+"Tuesday, Nov 13th 2018",Dealing with Categorical Variables
+"Tuesday, Nov 13th 2018",Multiple Linear Regression
+"Tuesday, Nov 13th 2018",Introduction
+"Monday, Nov 12th 2018",Interpreting Significance and P-value
+"Monday, Nov 12th 2018",Regression Diagnostics in Statsmodels
+"Sunday, Nov 11th 2018",Ordinary Least Squares in Statsmodels - Lab
+"Sunday, Nov 11th 2018",Ordinary Least Squares in Statsmodels
+"Sunday, Nov 11th 2018",Assumptions for Linear Regression
+"Sunday, Nov 11th 2018",Complete Regression - Lab
+"Sunday, Nov 11th 2018",Coefficient of Determination - Lab
+"Sunday, Nov 11th 2018",Coefficient of Determination
+"Sunday, Nov 11th 2018",Simple Linear Regression - Lab
+"Sunday, Nov 11th 2018",Simple Linear Regression
+"Sunday, Nov 11th 2018",Statistical Learning Theory 
+"Sunday, Nov 11th 2018",Covariance and Correlation - Lab
+"Sunday, Nov 11th 2018",Covariance and Correlation
+"Friday, Nov 9th 2018",Introduction
+"Friday, Nov 9th 2018",Section Recap
+"Friday, Nov 9th 2018",One-Sample z-test - Lab
+"Friday, Nov 9th 2018",One-Sample z-test
+"Thursday, Nov 8th 2018",Statistical Testing with z-score and p-value
+"Thursday, Nov 8th 2018",Skewness and Kurtosis - Lab
+"Wednesday, Nov 7th 2018",Skewness and Kurtosis
+"Wednesday, Nov 7th 2018", Standard Normal Distribution - Lab
+"Wednesday, Nov 7th 2018", Standard Normal Distribution
+"Wednesday, Nov 7th 2018",Normal/Gaussian Distribution - Lab
+"Wednesday, Nov 7th 2018",Normal/Gaussian Distribution
+"Tuesday, Nov 6th 2018",The Probability Density Function
+"Tuesday, Nov 6th 2018",The Cumulative Distribution Function - Lab
+"Tuesday, Nov 6th 2018",The Cumulative Distribution Function
+"Tuesday, Nov 6th 2018",The Probability Mass Function - Lab
+"Tuesday, Nov 6th 2018",The Probability Mass Function
+"Sunday, Nov 4th 2018",Statistical Distribution with Stem and Leaf Plots - Lab
+"Sunday, Nov 4th 2018",Statistical Distribution with Stem and Leaf Plots
+"Sunday, Nov 4th 2018",Statistical Distributions and Their Use Cases
+"Saturday, Nov 3rd 2018",Section Recap
+"Saturday, Nov 3rd 2018",Bernoulli And Binomial Distribution - Lab
+"Saturday, Nov 3rd 2018",Bernoulli And Binomial Distribution
+"Saturday, Nov 3rd 2018",Combinations - Lab
+"Saturday, Nov 3rd 2018",Combinations
+"Saturday, Nov 3rd 2018",Permutations And Factorials - Lab
+"Saturday, Nov 3rd 2018",Permutations And Factorials
+"Saturday, Nov 3rd 2018",Introduction To Probability - Lab
+"Saturday, Nov 3rd 2018",Introduction To Probability
+"Saturday, Nov 3rd 2018",Section Recap
+"Saturday, Nov 3rd 2018",Inheritance - Lab
+"Saturday, Nov 3rd 2018",Introduction To Sets - Lab
+"Friday, Nov 2nd 2018",Introduction To Sets
+"Thursday, Nov 1st 2018",Introduction To Combinatorics
+"Thursday, Nov 1st 2018",Getting Started With NumPy - Lab
+"Thursday, Nov 1st 2018",Getting Started With NumPy
+"Thursday, Nov 1st 2018",Introduction to NumPy
+"Thursday, Nov 1st 2018",Introduction
+"Tuesday, Oct 30th 2018",Building an Object Oriented Simulation
+"Monday, Oct 29th 2018",Inheritance
+"Monday, Oct 29th 2018",Object Oriented Shopping Cart - Lab
+"Monday, Oct 29th 2018",Classes and Instances - Lab
+"Monday, Oct 29th 2018",Object Oriented Attributes with Functions - Lab
+"Thursday, Oct 25th 2018",Class Variables and Instance Methods
+"Wednesday, Oct 24th 2018",Object Oriented Attributes with Functions
+"Tuesday, Oct 23rd 2018",Object Initialization - Lab
+"Tuesday, Oct 23rd 2018",Object Initialization
+"Tuesday, Oct 23rd 2018",Introduction
+"Tuesday, Oct 23rd 2018",Section Recap
+"Tuesday, Oct 23rd 2018",Object Attributes - Lab
+"Tuesday, Oct 23rd 2018",Object Attributes - Getter and Setter Methods
+"Tuesday, Oct 23rd 2018","A Deeper Dive into ""Self"""
+"Tuesday, Oct 23rd 2018",Instance Methods - Lab
+"Tuesday, Oct 23rd 2018",Instance Methods
+"Tuesday, Oct 23rd 2018",Section Recap
+"Monday, Oct 22nd 2018",Using SQL with Pandas - Lab
+"Monday, Oct 22nd 2018",Grouping Data with SQL - Lab
+"Monday, Oct 22nd 2018",One-to-Many and Many-to-Many Joins - Lab
+"Monday, Oct 22nd 2018",Join Statements - Lab
+"Sunday, Oct 21st 2018",Classes and Instances
+"Sunday, Oct 21st 2018",Introduction To Object Orientation
+"Sunday, Oct 21st 2018",Introduction
+"Sunday, Oct 21st 2018",Using SQL with Pandas
+"Sunday, Oct 21st 2018",One-to-Many and Many-to-Many Joins
+"Sunday, Oct 21st 2018",Grouping Data with SQL
+"Friday, Oct 19th 2018",Join Statements
+"Friday, Oct 19th 2018",Introduction to Table Relationships
+"Friday, Oct 19th 2018",Filtering and Ordering
+"Wednesday, Oct 17th 2018",Filtering and Ordering - Lab
+"Wednesday, Oct 17th 2018",Selecting Data - Lab
+"Tuesday, Oct 16th 2018",Selecting Data
+"Tuesday, Oct 16th 2018",SQL Database Data Types
+"Tuesday, Oct 16th 2018",SQL Database Basics
+"Tuesday, Oct 16th 2018",Introduction
+"Tuesday, Oct 16th 2018",Section Recap
+"Tuesday, Oct 16th 2018",Project - Data Cleaning
+"Monday, Oct 15th 2018",Dealing with Missing Data - Lab
+"Monday, Oct 15th 2018",Dealing With Missing Data - Quiz
+"Monday, Oct 15th 2018",Dealing with Missing Data
+"Monday, Oct 15th 2018",Pivot Tables with Pandas - Lab
+"Sunday, Oct 14th 2018",Pivot Tables with Pandas
+"Sunday, Oct 14th 2018",Combining DataFrames with Pandas - Lab
+"Sunday, Oct 14th 2018",Combining DataFrames with Pandas
+"Sunday, Oct 14th 2018","Split, Apply and Combine in Pandas"
+"Sunday, Oct 14th 2018",Lambda Functions - Lab
+"Sunday, Oct 14th 2018",Lambda Functions
+"Saturday, Oct 13th 2018",Introduction
+"Saturday, Oct 13th 2018",Section Recap
+"Saturday, Oct 13th 2018",Project - EDA with Pandas Using the Boston Housing Data
+"Friday, Oct 12th 2018",Data Visualization with Pandas
+"Friday, Oct 12th 2018",Kaggle and The Boston Housing Dataset
+"Friday, Oct 12th 2018",Customizing Visualizations with Matplotlib - Lab
+"Friday, Oct 12th 2018",Customizing Visualizations with Matplotlib
+"Thursday, Oct 11th 2018",Statistical Methods In Pandas - Lab
+"Thursday, Oct 11th 2018",Statistical Methods In Pandas
+"Thursday, Oct 11th 2018",Accessing Data within Pandas - Lab
+"Wednesday, Oct 10th 2018",Accessing Data within Pandas
+"Wednesday, Oct 10th 2018",Understanding Pandas Series and DataFrames - Lab
+"Wednesday, Oct 10th 2018",Understanding Pandas Series and DataFrames
+"Wednesday, Oct 10th 2018",Importing Data Using Pandas - Lab
+"Tuesday, Oct 9th 2018",Importing Data Using Pandas
+"Tuesday, Oct 9th 2018",Introducing Python Libraries
+"Tuesday, Oct 9th 2018",Introduction
+"Tuesday, Oct 9th 2018",Section Recap
+"Tuesday, Oct 9th 2018",Project - Building a Calculator
+"Tuesday, Oct 9th 2018",User Input/Output in Python
+"Tuesday, Oct 9th 2018",Implementing Statistics with Functions - Lab
+"Monday, Oct 8th 2018",Measures Of Dispersion - Quiz
+"Monday, Oct 8th 2018",Measures Of Dispersion
+"Monday, Oct 8th 2018",Measures Of Central Tendency - Quiz
+"Monday, Oct 8th 2018",Measures Of Central Tendency
+"Monday, Oct 8th 2018",Functions With Arguments - Lab
+"Monday, Oct 8th 2018",Functions With Arguments
+"Monday, Oct 8th 2018",Looping Over Collections - Lab
+"Sunday, Oct 7th 2018",Creating Functions - Lab
+"Sunday, Oct 7th 2018",Creating Functions
+"Sunday, Oct 7th 2018",Using Nested Loops - Lab
+"Sunday, Oct 7th 2018",Using Nested Loops
+"Sunday, Oct 7th 2018","While Loops, Break and Continue - Lab"
+"Sunday, Oct 7th 2018","While Loops, Break and Continue"
+"Sunday, Oct 7th 2018","Python Operators, Functions and Methods - Lab"
+"Sunday, Oct 7th 2018","Python Operators, Functions and Methods"
+"Sunday, Oct 7th 2018",Introduction
+"Saturday, Oct 6th 2018",Section Recap
+"Saturday, Oct 6th 2018",Project - Analyzing Macbeth
+"Saturday, Oct 6th 2018",Visualizing Data - Lab
+"Saturday, Oct 6th 2018",Visualizing Data
+"Friday, Oct 5th 2018",Working With Dictionaries - Lab
+"Friday, Oct 5th 2018",Working With Dictionaries
+"Friday, Oct 5th 2018",Looping Over Collections
+"Friday, Oct 5th 2018",Working With Lists - Lab
+"Friday, Oct 5th 2018",Working With Lists
+"Friday, Oct 5th 2018",Control Flow: Conditionals - Lab
+"Friday, Oct 5th 2018",Control Flow: Conditionals
+"Friday, Oct 5th 2018",Numeric Types - Lab
+"Friday, Oct 5th 2018",Variable Assignment - Lab
+"Thursday, Oct 4th 2018",Strings - Lab
+"Thursday, Oct 4th 2018",Numeric Types
+"Thursday, Oct 4th 2018",Strings
+"Thursday, Oct 4th 2018",Variable Assignment
+"Thursday, Oct 4th 2018",Your First Data Science Codealong!
+"Wednesday, Oct 3rd 2018",Working With Lessons On Learn - Lab
+"Wednesday, Oct 3rd 2018",Working With Lessons On Learn
+"Tuesday, Oct 2nd 2018",Setting Up a Professional DS Environment
+"Tuesday, Oct 2nd 2018",The Data Science Process
+"Tuesday, Oct 2nd 2018",Problems Data Science Can Solve
+"Tuesday, Oct 2nd 2018",Introduction
+"Tuesday, Oct 2nd 2018",Welcome
+"Sunday, Sep 30th 2018",Why Math
+"Sunday, Sep 30th 2018",Applying Nearest Neighbors
+"Sunday, Sep 30th 2018",Nearest Neighbors Readme
+"Sunday, Sep 30th 2018",Calculating Distance Lab
+"Saturday, Sep 29th 2018",Calculating Distance
+"Saturday, Sep 29th 2018",Visualizing In Python
+"Saturday, Sep 29th 2018",Filter Lab Python
+"Friday, Sep 28th 2018",Map Readme
+"Friday, Sep 28th 2018",Filter Readme
+"Thursday, Sep 27th 2018",Conditionals Python Lab
+"Thursday, Sep 27th 2018",Conditionals Python Readme
+"Wednesday, Sep 26th 2018",Function Arguments Lab
+"Wednesday, Sep 26th 2018",Function Arguments Readme
+"Wednesday, Sep 26th 2018",Python Scope Readme
+"Wednesday, Sep 26th 2018",Introduction To Functions Lab
+"Wednesday, Sep 26th 2018",For Loops Lab
+"Tuesday, Sep 25th 2018",Defining Functions Readme
+"Monday, Sep 24th 2018",For Loops Readme
+"Wednesday, Sep 19th 2018",Plotting Data Lab
+"Wednesday, Sep 19th 2018",Plotting Data Readme
+"Tuesday, Sep 18th 2018",Python Dictionaries Lab
+"Tuesday, Sep 18th 2018",Excel To Python
+"Tuesday, Sep 18th 2018",Python Dictionaries Readme
+"Tuesday, Sep 18th 2018",Congratulations!
+"Saturday, Sep 15th 2018",Lists With Maps
+"Saturday, Sep 15th 2018",Python Lists Lab
+"Monday, Aug 20th 2018",Python Lists Readme
+"Monday, Aug 20th 2018",Jupyter Notebook Introduction
+"Monday, Aug 20th 2018",Python Variables Lab
+"Monday, Aug 20th 2018",Python Variables Readme
+"Wednesday, Jul 11th 2018",Python Practice With Datatypes
+"Tuesday, Jul 10th 2018",Python Numbers And Booleans
+"Thursday, Jul 5th 2018",Python Intro To Strings
+"Thursday, Jul 5th 2018",Instant Data Science
+"Thursday, Jul 5th 2018",Introduction To Data Science
